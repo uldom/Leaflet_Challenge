@@ -14,7 +14,8 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ### Level 1: Basic Visualization
 
-![image](https://user-images.githubusercontent.com/82187978/128580855-0305b821-5496-4d76-aa4c-11bc6ea1253a.png)
+![image](https://user-images.githubusercontent.com/82187978/128581019-e8fa1e9f-ae05-4e75-9110-b56c5d0d6467.png)
+
 
 The first task is to visualize an earthquake data set.
 
